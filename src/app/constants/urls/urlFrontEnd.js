@@ -1,0 +1,17 @@
+export const URL_HOME = "/";
+export const URL_LOGIN = "/login";
+export const URL_SIGNIN = "/signin";
+export const URL_ADMIN_HOME = "/admin";
+export const URL_REGISTER = "/register";
+export const URL_LIST = "/simple-list";
+export const URL_ACCOUNT = "/account";
+export const URL_MOVIES = "/movies";
+export const URL_SERIES = "/series";
+export const URL_TERMS_OF_SERVICE = "/termsofservice";
+export const URL_CONTACT = "/contact";
+export const URL_DETAILSMOVIE = "/details-movie";
+export const URL_DETAILSSERIE = "/details-serie";
+export const URL_DETAILSPERSON = "/details-person";
+export const URL_PROFILE = "/profile";
+export const URL_MYPROFILE = "/myprofile";
+export const URL_CAPTCHA = "6LeKnDolAAAAAJTZnsk70sYnSHq5XNqE-iKEncyI";
