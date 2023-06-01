@@ -9,4 +9,4 @@ Utilisation de l'API de TBMdb pour récupérer les informations sur les films, s
 (Projet à complèter)
 
 ## REPO BACKEND (API PLATFORM)
-https://github.com/AlexisGdm/CineScop
+https://github.com/AlexisGdm/CineScop-backend
